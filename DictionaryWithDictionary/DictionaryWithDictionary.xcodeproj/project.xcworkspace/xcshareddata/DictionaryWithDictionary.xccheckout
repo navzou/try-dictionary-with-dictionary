@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D7D6B0DD-D8A1-41A1-8DA5-1C0A5C2A4172</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DictionaryWithDictionary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7CAF7B39-B6FF-4A0B-9639-F2D4F76C9B50</key>
+		<string>https://github.com/navzou/try-dictionary-with-dictionary.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DictionaryWithDictionary/DictionaryWithDictionary.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7CAF7B39-B6FF-4A0B-9639-F2D4F76C9B50</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/navzou/try-dictionary-with-dictionary.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7CAF7B39-B6FF-4A0B-9639-F2D4F76C9B50</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7CAF7B39-B6FF-4A0B-9639-F2D4F76C9B50</string>
+			<key>IDESourceControlWCCName</key>
+			<string>try-dictionary-with-dictionary</string>
+		</dict>
+	</array>
+</dict>
+</plist>
